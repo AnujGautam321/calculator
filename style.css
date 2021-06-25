@@ -1,0 +1,17 @@
+#display {
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+    text-align: right;
+    width:95%
+}
+input {
+    width: 100px;
+    height: 80px;
+    margin: 4px;
+    font-size: 25px;
+}
+table {
+    margin-left: 700px;
+    margin-top: 200px;
+    border: 3px solid gray;
+}
